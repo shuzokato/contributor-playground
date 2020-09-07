@@ -1,4 +1,0 @@
-hello kubernetes 
-
-from
-@shuzokato
